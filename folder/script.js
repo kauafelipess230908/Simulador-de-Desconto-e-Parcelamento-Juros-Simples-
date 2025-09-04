@@ -102,4 +102,4 @@ resultados.hidden = true;
 tabelaSecao.hidden = true;
 }
 });
-});s
+});
